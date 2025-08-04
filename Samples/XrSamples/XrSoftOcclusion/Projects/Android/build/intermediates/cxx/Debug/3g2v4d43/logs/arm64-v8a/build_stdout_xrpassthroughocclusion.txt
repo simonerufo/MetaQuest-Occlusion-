@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\.cxx\Debug\3g2v4d43\arm64-v8a'
+[1/2] Building CXX object XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o
+[2/2] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\3g2v4d43\obj\arm64-v8a\libxrpassthroughocclusion.so

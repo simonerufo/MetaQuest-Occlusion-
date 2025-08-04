@@ -1,0 +1,4 @@
+com.oculus.xrpassthroughocclusion.test-androidTest-0 C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\build\generated\res\resValues\androidTest\debug
+com.oculus.xrpassthroughocclusion.test-mergeDebugAndroidTestResources-1 C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.oculus.xrpassthroughocclusion.test-mergeDebugAndroidTestResources-2 C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.oculus.xrpassthroughocclusion.test-debugAndroidTest-3 C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

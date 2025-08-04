@@ -1,0 +1,4 @@
+ninja: Entering directory `C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\.cxx\Debug\3g2v4d43\arm64-v8a'
+[1/3] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/MeshSubdivision.cpp.o
+[2/3] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SceneSharingGl.cpp.o
+[3/3] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\3g2v4d43\obj\arm64-v8a\libscenesharing.so

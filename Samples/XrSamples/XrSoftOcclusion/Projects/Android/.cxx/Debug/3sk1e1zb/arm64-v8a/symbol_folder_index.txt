@@ -1,0 +1,1 @@
+C:\Users\simoneru\Documents\Meta-OpenXR-SDK\Samples\XrSamples\XrPassthroughOcclusion\Projects\Android\build\intermediates\cxx\Debug\3sk1e1zb\obj\arm64-v8a

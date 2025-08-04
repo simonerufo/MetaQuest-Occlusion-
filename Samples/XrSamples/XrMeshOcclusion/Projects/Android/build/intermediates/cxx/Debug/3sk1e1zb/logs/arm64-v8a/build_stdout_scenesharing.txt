@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\simoneru\Documents\Meta-OpenXR-SDK\Samples\XrSamples\XrSceneSharing\Projects\Android\.cxx\Debug\3sk1e1zb\arm64-v8a'
+[1/2] Building CXX object XrSamples/XrSceneSharing/CMakeFiles/scenesharing.dir/Src/SceneSharingXr.cpp.o
+[2/2] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\3sk1e1zb\obj\arm64-v8a\libscenesharing.so

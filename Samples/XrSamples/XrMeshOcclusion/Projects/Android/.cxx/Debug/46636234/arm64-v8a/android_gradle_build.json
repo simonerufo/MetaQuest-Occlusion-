@@ -1,0 +1,82 @@
+{
+  "buildFiles": [
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\3rdParty\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\SampleXrFramework\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrPassthroughOcclusion\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\OpenXR\\OpenXRConfig.cmake",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\OpenXR\\OpenXRConfigVersion.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\simoneru\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\simoneru\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "app_glue::@e4f153922b2cebb3c0ac": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "app_glue",
+      "output": "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\arm64-v8a\\SampleXrFramework\\libapp_glue.a"
+    },
+    "minizip::@39354e54008c9e693a7e": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "minizip",
+      "output": "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\arm64-v8a\\3rdParty\\libminizip.a"
+    },
+    "samplexrframework::@e4f153922b2cebb3c0ac": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "samplexrframework",
+      "output": "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\arm64-v8a\\SampleXrFramework\\libsamplexrframework.a"
+    },
+    "scenesharing::@59417289ce42d33ec209": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "scenesharing",
+      "output": "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\build\\intermediates\\cxx\\Debug\\46636234\\obj\\arm64-v8a\\libscenesharing.so",
+      "runtimeFiles": [
+        "C:\\Users\\simoneru\\.gradle\\caches\\8.12\\transforms\\001c4dbd8e820adf7d94e5a0828691ee\\transformed\\openxr_loader_for_android-1.1.46\\prefab\\modules\\openxr_loader\\libs\\android.arm64-v8a\\libopenxr_loader.so"
+      ]
+    },
+    "stb::@39354e54008c9e693a7e": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "stb",
+      "output": "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\.cxx\\Debug\\46636234\\arm64-v8a\\3rdParty\\libstb.a"
+    },
+    "xrpassthroughocclusion::@34e60645c8376b3c2691": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "xrpassthroughocclusion",
+      "output": "C:\\Users\\simoneru\\Desktop\\Meta-OpenXR-SDK\\Samples\\XrSamples\\XrSceneSharing\\Projects\\Android\\build\\intermediates\\cxx\\Debug\\46636234\\obj\\arm64-v8a\\libxrpassthroughocclusion.so",
+      "runtimeFiles": [
+        "C:\\Users\\simoneru\\.gradle\\caches\\8.12\\transforms\\001c4dbd8e820adf7d94e5a0828691ee\\transformed\\openxr_loader_for_android-1.1.46\\prefab\\modules\\openxr_loader\\libs\\android.arm64-v8a\\libopenxr_loader.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\simoneru\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\simoneru\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

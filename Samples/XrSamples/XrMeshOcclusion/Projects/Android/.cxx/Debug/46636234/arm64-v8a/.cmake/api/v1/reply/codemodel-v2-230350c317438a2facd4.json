@@ -1,0 +1,210 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "3rdParty",
+					"jsonFile" : "directory-3rdParty-Debug-c8338fe821208b2f08a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3rdParty",
+					"targetIndexes" : 
+					[
+						1,
+						4
+					]
+				},
+				{
+					"build" : "SampleXrFramework",
+					"jsonFile" : "directory-SampleXrFramework-Debug-4e8740f19b7b30284e00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SampleXrFramework",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "XrSamples",
+					"childIndexes" : 
+					[
+						4,
+						5
+					],
+					"jsonFile" : "directory-XrSamples-Debug-581ce16cf2236db7658f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "XrSamples"
+				},
+				{
+					"build" : "XrSamples/XrPassthroughOcclusion",
+					"jsonFile" : "directory-XrSamples.XrPassthroughOcclusion-Debug-f2646b95f4d055901597.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "XrSamples/XrPassthroughOcclusion",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "XrSamples/XrSceneSharing",
+					"jsonFile" : "directory-XrSamples.XrSceneSharing-Debug-3050c5686e8910ecd2d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "XrSamples/XrSceneSharing",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "MetaOpenXRSDK",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "xrpassthroughocclusion",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "scenesharing",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "app_glue::@e4f153922b2cebb3c0ac",
+					"jsonFile" : "target-app_glue-Debug-8e21952bda16043edac2.json",
+					"name" : "app_glue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minizip::@39354e54008c9e693a7e",
+					"jsonFile" : "target-minizip-Debug-c858e52c284a31e3e6a7.json",
+					"name" : "minizip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "samplexrframework::@e4f153922b2cebb3c0ac",
+					"jsonFile" : "target-samplexrframework-Debug-13004bf9b3e2337f41eb.json",
+					"name" : "samplexrframework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "scenesharing::@59417289ce42d33ec209",
+					"jsonFile" : "target-scenesharing-Debug-029a065617a312ecfac9.json",
+					"name" : "scenesharing",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "stb::@39354e54008c9e693a7e",
+					"jsonFile" : "target-stb-Debug-eb0f6095fc3fe600eb9e.json",
+					"name" : "stb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "xrpassthroughocclusion::@34e60645c8376b3c2691",
+					"jsonFile" : "target-xrpassthroughocclusion-Debug-d06820525b1ac6f35dff.json",
+					"name" : "xrpassthroughocclusion",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/simoneru/Desktop/Meta-OpenXR-SDK/Samples/XrSamples/XrSceneSharing/Projects/Android/.cxx/Debug/46636234/arm64-v8a",
+		"source" : "C:/Users/simoneru/Desktop/Meta-OpenXR-SDK/Samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

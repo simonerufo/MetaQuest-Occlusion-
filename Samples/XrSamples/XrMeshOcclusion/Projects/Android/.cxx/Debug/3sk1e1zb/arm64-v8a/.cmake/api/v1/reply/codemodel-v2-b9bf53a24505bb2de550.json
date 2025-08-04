@@ -1,0 +1,822 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "3rdParty",
+					"jsonFile" : "directory-3rdParty-Debug-c8338fe821208b2f08a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3rdParty",
+					"targetIndexes" : 
+					[
+						1,
+						6
+					]
+				},
+				{
+					"build" : "SampleXrFramework",
+					"jsonFile" : "directory-SampleXrFramework-Debug-4e8740f19b7b30284e00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SampleXrFramework",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "XrSamples",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22
+					],
+					"jsonFile" : "directory-XrSamples-Debug-581ce16cf2236db7658f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "XrSamples"
+				},
+				{
+					"build" : "XrSamples/XrBodyFaceEyeSocial",
+					"jsonFile" : "directory-XrSamples.XrBodyFaceEyeSocial-Debug-85eab16b87191463ee7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "XrSamples/XrBodyFaceEyeSocial",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "XrSamples/XrColocationDiscovery",
+					"jsonFile" : "directory-XrSamples.XrColocationDiscovery-Debug-593294cf3d50dd936541.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "XrSamples/XrColocationDiscovery",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "XrSamples/XrColorSpaceFB",
+					"jsonFile" : "directory-XrSamples.XrColorSpaceFB-Debug-8df4c52b2f3369cfa02b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "XrSamples/XrColorSpaceFB",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "XrSamples/XrCompositor_NativeActivity",
+					"jsonFile" : "directory-XrSamples.XrCompositor_NativeActivity-Debug-0ab8e4e9e40ec809bd91.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "XrSamples/XrCompositor_NativeActivity",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "XrSamples/XrControllers",
+					"jsonFile" : "directory-XrSamples.XrControllers-Debug-53c11c962d277ae5cc06.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 5,
+					"source" : "XrSamples/XrControllers",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "XrSamples/XrDynamicObjects",
+					"jsonFile" : "directory-XrSamples.XrDynamicObjects-Debug-15c80b0326f9a63865b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 6,
+					"source" : "XrSamples/XrDynamicObjects",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "XrSamples/XrHandDataSource",
+					"jsonFile" : "directory-XrSamples.XrHandDataSource-Debug-89bf9f36a4f011d490d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 7,
+					"source" : "XrSamples/XrHandDataSource",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "XrSamples/XrHandTrackingWideMotionMode",
+					"jsonFile" : "directory-XrSamples.XrHandTrackingWideMotionMode-Debug-c5952d854736571156e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 8,
+					"source" : "XrSamples/XrHandTrackingWideMotionMode",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "XrSamples/XrHandsAndControllers",
+					"jsonFile" : "directory-XrSamples.XrHandsAndControllers-Debug-1a9dca9af982d6984c9c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 9,
+					"source" : "XrSamples/XrHandsAndControllers",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "XrSamples/XrHandsFB",
+					"jsonFile" : "directory-XrSamples.XrHandsFB-Debug-3650844d2cd8223843b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 10,
+					"source" : "XrSamples/XrHandsFB",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "XrSamples/XrInput",
+					"jsonFile" : "directory-XrSamples.XrInput-Debug-bd9c303cce467e34952c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 11,
+					"source" : "XrSamples/XrInput",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "XrSamples/XrMicrogestures",
+					"jsonFile" : "directory-XrSamples.XrMicrogestures-Debug-05dbf3fe9c18855ae1ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 12,
+					"source" : "XrSamples/XrMicrogestures",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "XrSamples/XrPassthrough",
+					"jsonFile" : "directory-XrSamples.XrPassthrough-Debug-e2774e66a74c5e1bae31.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 13,
+					"source" : "XrSamples/XrPassthrough",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "XrSamples/XrPassthroughOcclusion",
+					"jsonFile" : "directory-XrSamples.XrPassthroughOcclusion-Debug-f2646b95f4d055901597.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 14,
+					"source" : "XrSamples/XrPassthroughOcclusion",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "XrSamples/XrSceneModel",
+					"jsonFile" : "directory-XrSamples.XrSceneModel-Debug-ceb316a61b7d3333949b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 15,
+					"source" : "XrSamples/XrSceneModel",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "XrSamples/XrSceneSharing",
+					"jsonFile" : "directory-XrSamples.XrSceneSharing-Debug-3050c5686e8910ecd2d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 16,
+					"source" : "XrSamples/XrSceneSharing",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "XrSamples/XrSpaceWarp",
+					"jsonFile" : "directory-XrSamples.XrSpaceWarp-Debug-dbabbcd4bce6b78aa011.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 17,
+					"source" : "XrSamples/XrSpaceWarp",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "XrSamples/XrSpatialAnchor",
+					"jsonFile" : "directory-XrSamples.XrSpatialAnchor-Debug-70691f6263d3a65dce61.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 18,
+					"source" : "XrSamples/XrSpatialAnchor",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "XrSamples/XrVirtualKeyboard",
+					"jsonFile" : "directory-XrSamples.XrVirtualKeyboard-Debug-c92355f72b757cde284e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 19,
+					"source" : "XrSamples/XrVirtualKeyboard",
+					"targetIndexes" : 
+					[
+						22
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "MetaOpenXRSDK",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "xrbodyfaceeyesocial",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "xrcolocationdiscovery",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "xrsamples_xrcolorspacefb",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "xrcompositor",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "xrcontrollers",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "xrdynamicobjects",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "xrhanddatasource",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "xrhandtrackingwidemotionmode",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "xrsamples_xrhands_and_controllers",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "xrhandsfb",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "xrsamples_xrinput",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "xrmicrogestures",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "xrpassthrough",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "xrpassthroughocclusion",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "scenemodel",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						19
+					],
+					"name" : "scenesharing",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "xrspacewarp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "spatialanchor",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						22
+					],
+					"name" : "xrvirtualkeyboard",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						22
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "app_glue::@e4f153922b2cebb3c0ac",
+					"jsonFile" : "target-app_glue-Debug-8e21952bda16043edac2.json",
+					"name" : "app_glue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minizip::@39354e54008c9e693a7e",
+					"jsonFile" : "target-minizip-Debug-f3637f6b93e1aee614c5.json",
+					"name" : "minizip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "samplexrframework::@e4f153922b2cebb3c0ac",
+					"jsonFile" : "target-samplexrframework-Debug-420e6f4cdc8d567205db.json",
+					"name" : "samplexrframework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "scenemodel::@bc8e8471bcaa603e757e",
+					"jsonFile" : "target-scenemodel-Debug-92704235c5744bf9bd16.json",
+					"name" : "scenemodel",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "scenesharing::@59417289ce42d33ec209",
+					"jsonFile" : "target-scenesharing-Debug-da601154be080e514322.json",
+					"name" : "scenesharing",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "spatialanchor::@428a5f97bd7c89f4890f",
+					"jsonFile" : "target-spatialanchor-Debug-7c1e10345a6a7df09978.json",
+					"name" : "spatialanchor",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "stb::@39354e54008c9e693a7e",
+					"jsonFile" : "target-stb-Debug-ffd242b42965b4a05cda.json",
+					"name" : "stb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "xrbodyfaceeyesocial::@db920e32e2694a1fa3f2",
+					"jsonFile" : "target-xrbodyfaceeyesocial-Debug-58b59f6dfe083e09c565.json",
+					"name" : "xrbodyfaceeyesocial",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "xrcolocationdiscovery::@5f746c8d8bea85e398a0",
+					"jsonFile" : "target-xrcolocationdiscovery-Debug-6576c340709133dd0d0b.json",
+					"name" : "xrcolocationdiscovery",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "xrcompositor::@4f3ac7503728f6ce45cd",
+					"jsonFile" : "target-xrcompositor-Debug-b3138004ac5b74ce4b3f.json",
+					"name" : "xrcompositor",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "xrcontrollers::@8ca6cba7cccb09a4e0b9",
+					"jsonFile" : "target-xrcontrollers-Debug-4f1faa02bfafa102e8e5.json",
+					"name" : "xrcontrollers",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "xrdynamicobjects::@07e3229ee15e566b50fe",
+					"jsonFile" : "target-xrdynamicobjects-Debug-329038c985ef5da506ba.json",
+					"name" : "xrdynamicobjects",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "xrhanddatasource::@ace2759cdb7129e01f28",
+					"jsonFile" : "target-xrhanddatasource-Debug-03744f9ccd54dd3bf48a.json",
+					"name" : "xrhanddatasource",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "xrhandsfb::@d73ec3e76df5a2d8ba8f",
+					"jsonFile" : "target-xrhandsfb-Debug-a8a79d4e84315d23ceee.json",
+					"name" : "xrhandsfb",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "xrhandtrackingwidemotionmode::@f2c914f79ad74330a56b",
+					"jsonFile" : "target-xrhandtrackingwidemotionmode-Debug-ecc305f30ac49f8b8724.json",
+					"name" : "xrhandtrackingwidemotionmode",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "xrmicrogestures::@52f19c73340ddf9ab7ed",
+					"jsonFile" : "target-xrmicrogestures-Debug-f39b16287b62a23e294c.json",
+					"name" : "xrmicrogestures",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "xrpassthrough::@89285dc1df59cbe575a5",
+					"jsonFile" : "target-xrpassthrough-Debug-9257484296c5fcf0298d.json",
+					"name" : "xrpassthrough",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "xrpassthroughocclusion::@34e60645c8376b3c2691",
+					"jsonFile" : "target-xrpassthroughocclusion-Debug-dc004144831162f0e40f.json",
+					"name" : "xrpassthroughocclusion",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "xrsamples_xrcolorspacefb::@538a8b13479bb8cedd7d",
+					"jsonFile" : "target-xrsamples_xrcolorspacefb-Debug-34b9ac3c52cb84b11dcd.json",
+					"name" : "xrsamples_xrcolorspacefb",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "xrsamples_xrhands_and_controllers::@86038cf38698a351ba98",
+					"jsonFile" : "target-xrsamples_xrhands_and_controllers-Debug-8f5fdee321d515bb0469.json",
+					"name" : "xrsamples_xrhands_and_controllers",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "xrsamples_xrinput::@51fd480b305ec3b3494b",
+					"jsonFile" : "target-xrsamples_xrinput-Debug-90f00851949c5624d086.json",
+					"name" : "xrsamples_xrinput",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "xrspacewarp::@cdc4bc59e8b435ad4181",
+					"jsonFile" : "target-xrspacewarp-Debug-78b4997188afd783f8eb.json",
+					"name" : "xrspacewarp",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 22,
+					"id" : "xrvirtualkeyboard::@0fef9b2768f8ae50c973",
+					"jsonFile" : "target-xrvirtualkeyboard-Debug-3ab4d63d6314aa2c38fd.json",
+					"name" : "xrvirtualkeyboard",
+					"projectIndex" : 19
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/simoneru/Documents/Meta-OpenXR-SDK/Samples/XrSamples/XrSceneSharing/Projects/Android/.cxx/Debug/3sk1e1zb/arm64-v8a",
+		"source" : "C:/Users/simoneru/Documents/Meta-OpenXR-SDK/Samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

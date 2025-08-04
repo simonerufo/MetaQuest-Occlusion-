@@ -1,0 +1,24 @@
+# ninja log v5
+1	2111	7747901319627137	SampleXrFramework/CMakeFiles/app_glue.dir/dff12fc5920ae77dd489c74d0bb26915/native_app_glue/android_native_app_glue.c.o	e8da9964dcd218c
+2114	3570	7747901327135889	SampleXrFramework/libapp_glue.a	a7c16f705e9b69c0
+62	14109	7750506080879478	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionInput.cpp.o	c811d21644708e3e
+7	2002	7750486947678424	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+12	15700	7750506097657477	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusion.cpp.o	a83116dcdb452928
+5	582	7756537672399871	build.ninja	2526ee17ce66b2
+2004	2250	7750486950648360	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717
+111	10737	7756537793668228	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionInput.cpp.o	c811d21644708e3e
+24	2592	7756540436285558	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+40	2405	7756550368204382	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionInput.cpp.o	c811d21644708e3e
+30	2955	7756550373562266	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+12	3383	7756550377982777	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusion.cpp.o	a83116dcdb452928
+3384	4936	7756550393585606	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717
+11	2003	7756553014227279	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusion.cpp.o	a83116dcdb452928
+2063	2248	7756553016733518	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717
+6	1918	7756556658887385	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+1919	2118	7756556660968051	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717
+11	1926	7756557589303171	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+1927	2121	7756557591203858	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717
+7	2032	7756558210445523	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+2033	2200	7756558212160910	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717
+7	1861	7756559056844408	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	baaef93783db311e
+1862	2117	7756559058945107	../../../../build/intermediates/cxx/Debug/3g2v4d43/obj/arm64-v8a/libxrpassthroughocclusion.so	c9cf84357b7bd717

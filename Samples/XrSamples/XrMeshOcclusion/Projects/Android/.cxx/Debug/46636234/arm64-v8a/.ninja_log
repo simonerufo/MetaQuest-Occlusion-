@@ -1,0 +1,9 @@
+# ninja log v5
+1	2511	7747893899729849	SampleXrFramework/CMakeFiles/app_glue.dir/9480481951d1897cc0d1bde77c94b0ed/android/native_app_glue/android_native_app_glue.c.o	5dc544067767abec
+2515	5119	7747893918153292	SampleXrFramework/libapp_glue.a	32a79db892c519fb
+56	8826	7747893963020421	XrSamples/XrSceneSharing/CMakeFiles/scenesharing.dir/Src/AnchorUtilities.cpp.o	7e22e9598daa9ade
+36	9085	7747893965771797	XrSamples/XrSceneSharing/CMakeFiles/scenesharing.dir/Src/FileHandler.cpp.o	65d27bba17bac8d6
+46	9313	7747893967928072	XrSamples/XrSceneSharing/CMakeFiles/scenesharing.dir/Src/SimpleXrInput.cpp.o	ab5041628fe1da1d
+24	10663	7747893981602062	XrSamples/XrSceneSharing/CMakeFiles/scenesharing.dir/Src/SceneSharingGl.cpp.o	90cc275e97f62dcf
+12	12305	7747893998033913	XrSamples/XrSceneSharing/CMakeFiles/scenesharing.dir/Src/SceneSharingXr.cpp.o	665ef2e42763a109
+12306	13037	7747894005500553	../../../../build/intermediates/cxx/Debug/46636234/obj/arm64-v8a/libscenesharing.so	b6e7049a5cf4fa3f
