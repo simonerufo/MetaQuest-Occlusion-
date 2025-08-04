@@ -1,0 +1,7 @@
+ninja: Entering directory `C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\.cxx\Debug\206qj4a2\arm64-v8a'
+[1/6] Building C object SampleXrFramework/CMakeFiles/app_glue.dir/8ac4a9c03eb8ded9b9f422d21532b750/sources/android/native_app_glue/android_native_app_glue.c.o
+[2/6] Linking C static library SampleXrFramework\libapp_glue.a
+[3/6] Building CXX object XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionInput.cpp.o
+[4/6] Building CXX object XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o
+[5/6] Building CXX object XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusion.cpp.o
+[6/6] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\206qj4a2\obj\arm64-v8a\libxrpassthroughocclusion.so

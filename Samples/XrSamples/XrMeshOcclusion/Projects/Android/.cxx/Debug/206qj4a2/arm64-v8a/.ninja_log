@@ -1,0 +1,10 @@
+# ninja log v5
+0	494	7759975296185264	SampleXrFramework/CMakeFiles/app_glue.dir/8ac4a9c03eb8ded9b9f422d21532b750/sources/android/native_app_glue/android_native_app_glue.c.o	7774f2fc0b213697
+565	1717	7759975304464668	SampleXrFramework/libapp_glue.a	9623476e65e58375
+11	3148	7759975321758458	XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/AnchorUtilities.cpp.o	4abcb62a067c93f0
+42	3224	7759975323044109	XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/FileHandler.cpp.o	82c3c2879facae38
+21	3429	7759975325285394	XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SimpleXrInput.cpp.o	b8e763cd207179ea
+51	4322	7759975334324942	XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/MeshSubdivision.cpp.o	1db70cff2f1e868a
+32	4796	7759975339292070	XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SceneSharingGl.cpp.o	94a6843d525dce1c
+1717	6814	7759975359404835	XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SceneSharingXr.cpp.o	8759af6dbe2724a7
+6815	7002	7759975361404834	../../../../build/intermediates/cxx/Debug/206qj4a2/obj/arm64-v8a/libscenesharing.so	4274b6f7eadf0725

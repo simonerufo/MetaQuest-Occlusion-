@@ -1,0 +1,210 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "3rdParty",
+					"jsonFile" : "directory-3rdParty-Debug-c8338fe821208b2f08a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3rdParty",
+					"targetIndexes" : 
+					[
+						1,
+						4
+					]
+				},
+				{
+					"build" : "SampleXrFramework",
+					"jsonFile" : "directory-SampleXrFramework-Debug-4e8740f19b7b30284e00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SampleXrFramework",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "XrSamples",
+					"childIndexes" : 
+					[
+						4,
+						5
+					],
+					"jsonFile" : "directory-XrSamples-Debug-581ce16cf2236db7658f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "XrSamples"
+				},
+				{
+					"build" : "XrSamples/XrMeshOcclusion",
+					"jsonFile" : "directory-XrSamples.XrMeshOcclusion-Debug-d76d6856885c7283ff50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "XrSamples/XrMeshOcclusion",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "XrSamples/XrSoftOcclusion",
+					"jsonFile" : "directory-XrSamples.XrSoftOcclusion-Debug-95b755829b146156a93e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "XrSamples/XrSoftOcclusion",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "MetaOpenXRSDK",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "scenesharing",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "xrpassthroughocclusion",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "app_glue::@e4f153922b2cebb3c0ac",
+					"jsonFile" : "target-app_glue-Debug-8e21952bda16043edac2.json",
+					"name" : "app_glue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minizip::@39354e54008c9e693a7e",
+					"jsonFile" : "target-minizip-Debug-908460bc5453a95650c1.json",
+					"name" : "minizip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "samplexrframework::@e4f153922b2cebb3c0ac",
+					"jsonFile" : "target-samplexrframework-Debug-74ed782358c505a8d2a1.json",
+					"name" : "samplexrframework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "scenesharing::@44cd269a32e98822cce4",
+					"jsonFile" : "target-scenesharing-Debug-e47a50a8b31c2c155627.json",
+					"name" : "scenesharing",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "stb::@39354e54008c9e693a7e",
+					"jsonFile" : "target-stb-Debug-119d7be799c432b0922e.json",
+					"name" : "stb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "xrpassthroughocclusion::@f4f86ba73d3486ab7f52",
+					"jsonFile" : "target-xrpassthroughocclusion-Debug-ed96fb432fbf401b6b7d.json",
+					"name" : "xrpassthroughocclusion",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/simoneru/Desktop/Thesis/Samples/XrSamples/XrMeshOcclusion/Projects/Android/.cxx/Debug/206qj4a2/arm64-v8a",
+		"source" : "C:/Users/simoneru/Desktop/Thesis/Samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

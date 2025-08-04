@@ -1,0 +1,68 @@
+{
+  "buildFiles": [
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\3rdParty\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\SampleXrFramework\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrMeshOcclusion\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\CMakeLists.txt",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\OpenXR\\OpenXRConfig.cmake",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\OpenXR\\OpenXRConfigVersion.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\simoneru\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\simoneru\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "minizip::@39354e54008c9e693a7e": {
+      "artifactName": "minizip",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\arm64-v8a\\3rdParty\\libminizip.a",
+      "runtimeFiles": []
+    },
+    "scenesharing::@44cd269a32e98822cce4": {
+      "artifactName": "scenesharing",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\build\\intermediates\\cxx\\Debug\\206qj4a2\\obj\\arm64-v8a\\libscenesharing.so",
+      "runtimeFiles": [
+        "C:\\Users\\simoneru\\.gradle\\caches\\8.12\\transforms\\001c4dbd8e820adf7d94e5a0828691ee\\transformed\\openxr_loader_for_android-1.1.46\\prefab\\modules\\openxr_loader\\libs\\android.arm64-v8a\\libopenxr_loader.so"
+      ]
+    },
+    "xrpassthroughocclusion::@f4f86ba73d3486ab7f52": {
+      "artifactName": "xrpassthroughocclusion",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\build\\intermediates\\cxx\\Debug\\206qj4a2\\obj\\arm64-v8a\\libxrpassthroughocclusion.so",
+      "runtimeFiles": [
+        "C:\\Users\\simoneru\\.gradle\\caches\\8.12\\transforms\\001c4dbd8e820adf7d94e5a0828691ee\\transformed\\openxr_loader_for_android-1.1.46\\prefab\\modules\\openxr_loader\\libs\\android.arm64-v8a\\libopenxr_loader.so"
+      ]
+    },
+    "samplexrframework::@e4f153922b2cebb3c0ac": {
+      "artifactName": "samplexrframework",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\arm64-v8a\\SampleXrFramework\\libsamplexrframework.a",
+      "runtimeFiles": []
+    },
+    "stb::@39354e54008c9e693a7e": {
+      "artifactName": "stb",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\arm64-v8a\\3rdParty\\libstb.a",
+      "runtimeFiles": []
+    },
+    "app_glue::@e4f153922b2cebb3c0ac": {
+      "artifactName": "app_glue",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\simoneru\\Desktop\\Thesis\\Samples\\XrSamples\\XrSoftOcclusion\\Projects\\Android\\.cxx\\Debug\\206qj4a2\\arm64-v8a\\SampleXrFramework\\libapp_glue.a",
+      "runtimeFiles": []
+    }
+  }
+}

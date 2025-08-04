@@ -1,0 +1,8 @@
+C:\Users\simoneru\Desktop\Thesis\Samples\3rdParty\CMakeLists.txt
+C:\Users\simoneru\Desktop\Thesis\Samples\CMakeLists.txt
+C:\Users\simoneru\Desktop\Thesis\Samples\SampleXrFramework\CMakeLists.txt
+C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\CMakeLists.txt
+C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\CMakeLists.txt
+C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\CMakeLists.txt
+C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\.cxx\Debug\206qj4a2\prefab\arm64-v8a\prefab\lib\aarch64-linux-android\cmake\OpenXR\OpenXRConfig.cmake
+C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\.cxx\Debug\206qj4a2\prefab\arm64-v8a\prefab\lib\aarch64-linux-android\cmake\OpenXR\OpenXRConfigVersion.cmake

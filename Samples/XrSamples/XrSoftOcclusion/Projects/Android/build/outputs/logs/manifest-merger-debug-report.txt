@@ -1,134 +1,134 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:2:1-79:12
 MERGED from [org.khronos.openxr:openxr_loader_for_android:1.1.46] C:\Users\simoneru\.gradle\caches\8.12\transforms\001c4dbd8e820adf7d94e5a0828691ee\transformed\openxr_loader_for_android-1.1.46\AndroidManifest.xml:1:1-29:12
 	package
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:4:5-48
-		INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:6:5-30
-		INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:3:5-63
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:3:5-63
 	android:versionCode
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:5:5-28
-		INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:7:5-35
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:7:5-35
 uses-feature#0x00030001
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:10:3-13:9
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:10:3-13:9
 	android:glEsVersion
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:11:7-39
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:11:7-39
 	android:required
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:12:7-30
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:12:7-30
 uses-feature#android.hardware.vr.headtracking
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:14:3-17:9
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:14:3-17:9
 	android:required
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:16:7-31
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:16:7-31
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:15:7-54
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:15:7-54
 uses-feature#com.oculus.feature.PASSTHROUGH
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:18:3-21:9
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:18:3-21:9
 	android:required
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:20:7-30
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:20:7-30
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:19:7-52
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:19:7-52
 uses-permission#com.oculus.permission.USE_SCENE
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:22:3-69
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:22:3-69
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:22:20-66
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:22:20-66
 uses-feature#oculus.software.handtracking
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:24:3-27:9
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:24:3-27:9
 	android:required
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:26:7-31
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:26:7-31
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:25:7-50
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:25:7-50
 uses-permission#com.oculus.permission.HAND_TRACKING
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:28:3-73
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:28:3-73
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:28:20-70
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:28:20-70
 application
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:29:3-78:17
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:29:3-78:17
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:29:3-78:17
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:29:3-78:17
 	android:extractNativeLibs
-		INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+		INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 	android:label
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:31:7-45
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:31:7-45
 	android:allowBackup
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:30:7-34
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:30:7-34
 meta-data#com.oculus.supportedDevices
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:33:5-36:11
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:33:5-36:11
 	android:value
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:35:9-28
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:35:9-28
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:34:9-51
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:34:9-51
 activity#com.oculus.xrpassthroughocclusion.MainActivity
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:39:5-54:16
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:39:5-54:16
 	android:screenOrientation
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:43:9-46
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:43:9-46
 	android:excludeFromRecents
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:44:9-43
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:44:9-43
 	android:launchMode
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:42:9-40
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:42:9-40
 	android:exported
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:46:9-32
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:46:9-32
 	android:configChanges
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:45:9-110
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:45:9-110
 	android:theme
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:41:9-73
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:41:9-73
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:40:9-70
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:40:9-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:49:7-53:23
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:49:7-53:23
 action#android.intent.action.MAIN
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:50:9-61
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:50:9-61
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:50:17-58
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:50:17-58
 category#com.oculus.intent.category.VR
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:51:9-66
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:51:9-66
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:51:19-63
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:51:19-63
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:52:9-69
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:52:9-69
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:52:19-66
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:52:19-66
 activity#com.oculus.xrpassthroughocclusion.MainNativeActivity
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:59:5-77:16
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:59:5-77:16
 	android:screenOrientation
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:63:9-46
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:63:9-46
 	android:excludeFromRecents
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:64:9-43
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:64:9-43
 	android:launchMode
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:62:9-40
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:62:9-40
 	android:exported
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:66:9-32
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:66:9-32
 	android:configChanges
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:65:9-110
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:65:9-110
 	android:theme
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:61:9-73
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:61:9-73
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:60:9-76
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:60:9-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:com.oculus.intent.category.VR
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:69:7-72:23
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:69:7-72:23
 meta-data#android.app.lib_name
-ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:73:7-76:13
+ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:73:7-76:13
 	android:value
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:75:11-49
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:75:11-49
 	android:name
-		ADDED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:74:11-46
+		ADDED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml:74:11-46
 uses-sdk
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
-INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 MERGED from [org.khronos.openxr:openxr_loader_for_android:1.1.46] C:\Users\simoneru\.gradle\caches\8.12\transforms\001c4dbd8e820adf7d94e5a0828691ee\transformed\openxr_loader_for_android-1.1.46\AndroidManifest.xml:11:3-72
 MERGED from [org.khronos.openxr:openxr_loader_for_android:1.1.46] C:\Users\simoneru\.gradle\caches\8.12\transforms\001c4dbd8e820adf7d94e5a0828691ee\transformed\openxr_loader_for_android-1.1.46\AndroidManifest.xml:11:3-72
 	android:targetSdkVersion
-		INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+		INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
+		INJECTED from C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrSoftOcclusion\Projects\Android\AndroidManifest.xml
 uses-permission#org.khronos.openxr.permission.OPENXR
 ADDED from [org.khronos.openxr:openxr_loader_for_android:1.1.46] C:\Users\simoneru\.gradle\caches\8.12\transforms\001c4dbd8e820adf7d94e5a0828691ee\transformed\openxr_loader_for_android-1.1.46\AndroidManifest.xml:13:3-74
 	android:name

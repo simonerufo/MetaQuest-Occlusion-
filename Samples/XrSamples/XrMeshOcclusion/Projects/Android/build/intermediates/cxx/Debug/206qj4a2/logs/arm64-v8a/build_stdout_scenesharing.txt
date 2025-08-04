@@ -1,0 +1,10 @@
+ninja: Entering directory `C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\.cxx\Debug\206qj4a2\arm64-v8a'
+[1/9] Building C object SampleXrFramework/CMakeFiles/app_glue.dir/8ac4a9c03eb8ded9b9f422d21532b750/sources/android/native_app_glue/android_native_app_glue.c.o
+[2/9] Linking C static library SampleXrFramework\libapp_glue.a
+[3/9] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/AnchorUtilities.cpp.o
+[4/9] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/FileHandler.cpp.o
+[5/9] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SimpleXrInput.cpp.o
+[6/9] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/MeshSubdivision.cpp.o
+[7/9] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SceneSharingGl.cpp.o
+[8/9] Building CXX object XrSamples/XrMeshOcclusion/CMakeFiles/scenesharing.dir/Src/SceneSharingXr.cpp.o
+[9/9] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\206qj4a2\obj\arm64-v8a\libscenesharing.so

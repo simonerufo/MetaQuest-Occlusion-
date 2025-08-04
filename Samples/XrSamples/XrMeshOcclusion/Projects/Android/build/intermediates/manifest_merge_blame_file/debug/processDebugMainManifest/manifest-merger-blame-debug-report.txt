@@ -10,60 +10,60 @@
 10        android:targetSdkVersion="32" />
 11    <!-- Tell the system this app requires OpenGL ES 3.1. -->
 12    <uses-feature
-12-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:10:3-13:9
+12-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:10:3-13:9
 13        android:glEsVersion="0x00030001"
-13-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:11:7-39
+13-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:11:7-39
 14        android:required="true" />
-14-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:12:7-30
+14-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:12:7-30
 15    <uses-feature
-15-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:15:3-18:9
+15-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:15:3-18:9
 16        android:name="android.hardware.vr.headtracking"
-16-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:16:7-54
+16-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:16:7-54
 17        android:required="true" />
-17-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:17:7-30
+17-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:17:7-30
 18    <!-- Volume Control -->
 19    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-19-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:20:3-78
-19-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:20:20-75
+19-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:20:3-78
+19-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:20:20-75
 20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-20-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:21:3-78
-20-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:21:20-75
+20-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:21:3-78
+20-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:21:20-75
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-21-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:22:3-77
-21-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:22:20-74
+21-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:22:3-77
+21-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:22:20-74
 22
 23    <!-- Allows to access TrackingEnvironment functionality -->
 24    <uses-permission android:name="com.oculus.permission.ACCESS_TRACKING_ENV" />
-24-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:25:3-79
-24-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:25:20-76
+24-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:25:3-79
+24-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:25:20-76
 25
 26    <!-- Grants access to Passthrough API. -->
 27    <uses-feature android:name="com.oculus.feature.PASSTHROUGH" />
-27-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:29:3-65
-27-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:29:17-62
+27-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:29:3-65
+27-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:29:17-62
 28    <!-- Request permission to use Scene -->
 29    <uses-permission android:name="com.oculus.permission.USE_SCENE" />
-29-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:31:3-69
-29-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:31:20-66
+29-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:31:3-69
+29-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:31:20-66
 30    <!-- Enable report events to Telemetry Service -->
 31    <uses-permission android:name="com.oculus.permission.REPORT_EVENTS" />
-31-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:33:3-73
-31-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:33:20-70
+31-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:33:3-73
+31-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:33:20-70
 32    <uses-permission android:name="com.oculus.permission.REPORT_EVENTS_DEBUG" />
-32-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:34:3-79
-32-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:34:20-76
+32-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:34:3-79
+32-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:34:20-76
 33    <!-- Grants access to Spatial Anchors. -->
 34    <uses-permission android:name="com.oculus.permission.USE_ANCHOR_API" />
-34-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:36:3-74
-34-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:36:20-71
+34-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:36:3-74
+34-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:36:20-71
 35    <!-- Grants access to Shared Spatial Anchors. -->
 36    <uses-permission android:name="com.oculus.permission.IMPORT_EXPORT_IOT_MAP_DATA" />
-36-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:38:3-86
-36-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:38:20-83
+36-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:38:3-86
+36-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:38:20-83
 37    <!-- Grants access to Experimental APIs. -->
 38    <uses-feature android:name="com.oculus.experimental.enabled" />
-38-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:40:3-66
-38-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:40:17-63
+38-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:40:3-66
+38-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:40:17-63
 39
 40    <uses-permission android:name="org.khronos.openxr.permission.OPENXR" />
 40-->[org.khronos.openxr:openxr_loader_for_android:1.1.46] C:\Users\simoneru\.gradle\caches\8.12\transforms\001c4dbd8e820adf7d94e5a0828691ee\transformed\openxr_loader_for_android-1.1.46\AndroidManifest.xml:13:3-74
@@ -96,60 +96,60 @@
 55    </queries>
 56
 57    <application
-57-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:42:3-69:17
+57-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:42:3-69:17
 58        android:allowBackup="false"
-58-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:43:7-34
+58-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:43:7-34
 59        android:debuggable="true"
 60        android:extractNativeLibs="false"
 61        android:label="scenesharing" >
-61-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:44:7-35
+61-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:44:7-35
 62        <meta-data
-62-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:46:5-81
+62-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:46:5-81
 63            android:name="com.oculus.supportedDevices"
-63-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:46:16-58
+63-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:46:16-58
 64            android:value="all" />
-64-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:46:59-78
+64-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:46:59-78
 65        <!-- launchMode is set to singleTask because there should never be multiple copies of the app running -->
 66        <!-- Theme.Black.NoTitleBar.Fullscreen gives solid black instead of a (bad stereoscopic) gradient on app transition -->
 67        <!-- If targeting API level 24+, configChanges should additionally include 'density'. -->
 68        <!-- If targeting API level 24+, android:resizeableActivity="false" should be added. -->
 69        <activity
-69-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:51:5-68:16
+69-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:51:5-68:16
 70            android:name="com.oculus.NativeActivity"
-70-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:52:9-49
+70-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:52:9-49
 71            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode"
-71-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:57:9-110
+71-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:57:9-110
 72            android:excludeFromRecents="false"
-72-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:56:9-43
+72-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:56:9-43
 73            android:exported="true"
-73-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:58:9-32
+73-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:58:9-32
 74            android:launchMode="singleTask"
-74-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:54:9-40
+74-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:54:9-40
 75            android:screenOrientation="landscape"
-75-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:55:9-46
+75-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:55:9-46
 76            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-76-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:53:9-73
+76-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:53:9-73
 77
 78            <!-- Tell NativeActivity the name of the .so -->
 79            <meta-data
-79-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:61:7-85
+79-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:61:7-85
 80                android:name="android.app.lib_name"
-80-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:61:18-53
+80-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:61:18-53
 81                android:value="scenesharing" />
-81-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:61:54-82
+81-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:61:54-82
 82            <!-- This filter lets the apk show up as a launchable icon. -->
 83            <intent-filter>
-83-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:63:7-67:23
+83-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:63:7-67:23
 84                <action android:name="android.intent.action.MAIN" />
-84-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:64:9-61
-84-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:64:17-58
+84-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:64:9-61
+84-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:64:17-58
 85
 86                <category android:name="com.oculus.intent.category.VR" />
-86-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:65:9-66
-86-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:65:19-63
+86-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:65:9-66
+86-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:65:19-63
 87                <category android:name="android.intent.category.LAUNCHER" />
-87-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:66:9-69
-87-->C:\Users\simoneru\Desktop\OpenXROcclusion\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:66:19-66
+87-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:66:9-69
+87-->C:\Users\simoneru\Desktop\Thesis\Samples\XrSamples\XrMeshOcclusion\Projects\Android\AndroidManifest.xml:66:19-66
 88            </intent-filter>
 89        </activity>
 90    </application>

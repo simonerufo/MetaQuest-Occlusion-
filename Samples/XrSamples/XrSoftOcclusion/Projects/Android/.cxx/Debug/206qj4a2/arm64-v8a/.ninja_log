@@ -1,0 +1,7 @@
+# ninja log v5
+2	2283	7759974197183788	SampleXrFramework/CMakeFiles/app_glue.dir/8ac4a9c03eb8ded9b9f422d21532b750/sources/android/native_app_glue/android_native_app_glue.c.o	7774f2fc0b213697
+2287	3937	7759974206976919	SampleXrFramework/libapp_glue.a	9623476e65e58375
+39	9756	7759974271970146	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionInput.cpp.o	5f7e6f325a7556a3
+18	10157	7759974276001987	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusionGl.cpp.o	9bf4c952929c08f8
+29	10279	7759974277227257	XrSamples/XrSoftOcclusion/CMakeFiles/xrpassthroughocclusion.dir/Src/XrPassthroughOcclusion.cpp.o	2e21238b1f7638c6
+10280	10509	7759974279531696	../../../../build/intermediates/cxx/Debug/206qj4a2/obj/arm64-v8a/libxrpassthroughocclusion.so	739c799f9bf340fc
