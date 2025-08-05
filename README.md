@@ -22,7 +22,8 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 
 ## <a id="socclusion"></a> Soft Occlusion
-`![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhtODE5a2J5bmJlNXZnOW1ub2tlc21nYzF4NDE5MWg5czQ3cDQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6EG2su1f5jOTourNL/giphy.gif)
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhtODE5a2J5bmJlNXZnOW1ub2tlc21nYzF4NDE5MWg5czQ3cDQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6EG2su1f5jOTourNL/giphy.gif)
+
 *here is a little demo recording*
 
 **OpenXR Extensions:** 
