@@ -22,7 +22,7 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 
 ## <a id="socclusion"></a> Soft Occlusion
-![Alt Text](assets/SoftOcc.gif)
+![Alt Text](assets\\SoftOcc.gif)
 
 *Soft occlusion demo*
 
@@ -36,7 +36,7 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 ## <a id="mocclusion"></a> Mesh Occlusion
 
-![Alt Text](assets/MeshOcc.gif)
+![Alt Text](assets\\MeshOcc.gif)
 
 *Mesh occlusion demo*
 
