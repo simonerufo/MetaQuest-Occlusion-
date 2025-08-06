@@ -81,7 +81,6 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 - **Mesh Expansion** : After subdivision, every vertex in the mesh is pushed slightly outwards along its normal vector. This creates a slightly larger "shell" of the scene geometry. This is a common technique to combat "Z-fighting" (flickering at the edge of occlusion) and ensure that the occlusion mesh is slightly "thicker" than the real-world surface, leading to more stable and robust occlusion.
 
-Depth buffer to handle occlusion
 ## Build
 > Enable Quest system property to use experimental features, you will need the command: `adb shell setprop debug.oculus.experimentalEnabled 1`.
 
