@@ -4,7 +4,7 @@
 - [Introduction](#introduction)  
 - [Soft Occlusion](#socclusion)
 - [Mesh Occlusion](#mocclusion)
--  [How to build](#build)
+- [How to build](#build)
 
 ## Introduction
 This project is an educational resource for developers interested in Augmented Reality, focusing on the implementation of hologram occlusion with the Meta Quest.
@@ -22,9 +22,9 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 
 ## <a id="socclusion"></a> Soft Occlusion
-![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhtODE5a2J5bmJlNXZnOW1ub2tlc21nYzF4NDE5MWg5czQ3cDQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6EG2su1f5jOTourNL/giphy.gif)
+![Alt Text](assets\SoftOcc.gif)
 
-*here is a little demo recording*
+*Soft occlusion demo*
 
 **OpenXR Extensions:** 
 - XrPassthrough: This extension is what enables **Augmented Reality** on a typically **Virtual Reality** device. In simple terms, it gives developers control over the headset's built-in tracking cameras to display a live feed of the real world to the user.
@@ -35,13 +35,51 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 - Fragment shader: The primary purpose of this shader is to draw a virtual object (a "hologram") in an Augmented Reality scene and make it realistically disappear behind real-world objects. To do this, it compares the depth of the virtual object against a depth map of the real world, which is provided by the Meta Quest depth sensor. The shader implements two techniques to make this occlusion look smooth and natural: **Soft Occlusion** and **Multi-Sampling**.
 
 ## <a id="mocclusion"></a> Mesh Occlusion
-### TODO{
+
+![Alt Text](assets\MeshOcc.gif)
+
+*Mesh occlusion demo*
+
 **OpenXR Extensions:**
+- XrPassthrough
+- XrFBScene:  Provides a simplified, high-level understanding of the room's geometry.
+- XrFBSpatialEntity: This is the central pillar of the entire system. It establishes what a spatial anchor is and allows the runtime to track its position in the real world. Every other SPATIAL_ENTITY extension builds on this one.
+- XrFBSpatialEntityQuery: Once the system knows about anchors (e.g., from a previously scanned room), this extension lets you find them. You can query based on location ("find all anchors within 2 meters of me") or by type ("find all anchors that are classified as 'table'").
+-XrFBSpatialEntityStorage: This is what enables persistence in AR. When you place a virtual object on your real desk, you save the desk's spatial anchor. The next time the user starts your app, you can load that anchor, and the virtual object will appear in the exact same spot.
+- XrFBSpatialEntityContainer: Allows spatial entities to contain other spatial entities, creating a hierarchy.
+- XrFBSpatialEntityStorage: An optimization for saving or erasing multiple anchors at once.
 - XrMetaSpatialEntityMesh: Provides the actual 3D triangle mesh for a spatial entity.
+- XrMetaSpatialEntitySharing: This is the key to multi-user AR. By sharing anchors, you and a friend can see the same virtual object in the exact same real-world location. You share the anchor for your coffee table, and you can both see the virtual chessboard sitting on it.
+- XrMetaSpatialEntityGroupSharing: A more advanced way to manage sharing with specific groups of users.
 - XrFBSceneCapture: Provides an interface to initiate the process of scanning and "capturing" a new scene.
 
-**OpenGL shaders:**
-### TODO}
+
+### How occlusion is achieved:
+ The hologram occlusion here is achieved using a GPU technique known as Depth Buffering (or Z-Buffering):
+
+ - The **"occluder"** pass:
+  The first step is to inform the GPU about the geometry of the real world.
+    the achievement is to create a "depth map" of the real world.
+    The renderer draws the entire scene mesh provided by the headset (walls, floor, furniture).
+    This pass is rendered with color writing turned OFF (glColorMask(false)). This means nothing is actually drawn to the screen, making the pass invisible. However, the GPU still populates the Depth Buffer with distance information for the real-world geometry.
+    After this pass, the depth buffer contains a perfect, pixel-by-pixel "imprint" of the room's shape.
+
+ - The **"visible scene"** pass:
+  With the depth buffer primed, we can now draw our virtual content.
+    we want to draw the virtual objects and have them be correctly hidden by the real world. The renderer draws the virtual objects (like the controller cubes) normally, with color writing turned back ON.
+    For every single pixel of a virtual object, the GPU performs its standard, hardware-accelerated depth test. It asks a simple question: "Is this virtual pixel closer to the camera than the real-world pixel we recorded in Pass 1?"
+
+      If yes, the pixel is drawn.
+
+      If no, the pixel is hidden by the real world, so the GPU discards it automatically.
+
+    This entire process happens for every frame, ensuring that the occlusion is always up-to-date with the user's position.
+
+
+**Mesh refinement:**
+- **Loop Subdivision**: This algorithm is called to increase the triangle density of the scene mesh. It makes the mesh smoother and can provide more accurate data for physics or rendering, reducing the appearance of large, flat polygons.
+
+- **Mesh Expansion** : After subdivision, every vertex in the mesh is pushed slightly outwards along its normal vector. This creates a slightly larger "shell" of the scene geometry. This is a common technique to combat "Z-fighting" (flickering at the edge of occlusion) and ensure that the occlusion mesh is slightly "thicker" than the real-world surface, leading to more stable and robust occlusion.
 
 Depth buffer to handle occlusion
 ## Build
