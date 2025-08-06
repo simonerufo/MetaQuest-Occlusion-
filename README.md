@@ -45,7 +45,7 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 - XrFBScene:  Provides a simplified, high-level understanding of the room's geometry.
 - XrFBSpatialEntity: This is the central pillar of the entire system. It establishes what a spatial anchor is and allows the runtime to track its position in the real world. Every other SPATIAL_ENTITY extension builds on this one.
 - XrFBSpatialEntityQuery: Once the system knows about anchors (e.g., from a previously scanned room), this extension lets you find them. You can query based on location ("find all anchors within 2 meters of me") or by type ("find all anchors that are classified as 'table'").
--XrFBSpatialEntityStorage: This is what enables persistence in AR. When you place a virtual object on your real desk, you save the desk's spatial anchor. The next time the user starts your app, you can load that anchor, and the virtual object will appear in the exact same spot.
+- XrFBSpatialEntityStorage: This is what enables persistence in AR. When you place a virtual object on your real desk, you save the desk's spatial anchor. The next time the user starts your app, you can load that anchor, and the virtual object will appear in the exact same spot.
 - XrFBSpatialEntityContainer: Allows spatial entities to contain other spatial entities, creating a hierarchy.
 - XrFBSpatialEntityStorage: An optimization for saving or erasing multiple anchors at once.
 - XrMetaSpatialEntityMesh: Provides the actual 3D triangle mesh for a spatial entity.
