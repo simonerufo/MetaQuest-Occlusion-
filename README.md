@@ -22,8 +22,7 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 
 ## <a id="socclusion"></a> Soft Occlusion
-![Alt Text](https://github.com/simonerufo/MetaQuest-Occlusion-Cpp-samples/edit/main/assets/SoftOcc.gif)
-
+![Alt Text](https://github.com/simonerufo/MetaQuest-Occlusion-Cpp-samples/blob/main/assets/SoftOcc.gif)
 *Soft occlusion demo*
 
 **OpenXR Extensions:** 
@@ -36,7 +35,7 @@ The main objective of these samples is to provide a hands-on demonstration of ho
 
 ## <a id="mocclusion"></a> Mesh Occlusion
 
-![Alt Text]([assets\\MeshOcc.gif](https://github.com/simonerufo/MetaQuest-Occlusion-Cpp-samples/edit/main/assets/MeshOcc.gif))
+![Alt Text](https://github.com/simonerufo/MetaQuest-Occlusion-Cpp-samples/blob/main/assets/MeshOcc.gif)
 
 *Mesh occlusion demo*
 
